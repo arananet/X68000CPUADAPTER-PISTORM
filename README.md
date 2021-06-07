@@ -8,7 +8,7 @@ This will electronically work with PISTORM but firmware needs some work and is n
 
 # Images
 
-<img src="https://github.com/arananet/X68000CPUADAPTER-PISTORM/blob/main/images/1nuevo.png?raw=true" width="700">
+<img src="https://github.com/arananet/X68000CPUADAPTER-PISTORM/blob/main/images/2nuevo.png?raw=true" width="700">
 
 # PCB information
 
@@ -34,6 +34,7 @@ https://es.aliexpress.com/item/33014330335.html?spm=a2g0o.productlist.0.0.509d30
 
 # Update
 
+07-06-2021 - Retouched VCC lines for high current.
 07-06-2021 - Initial release.
 
 # Note
