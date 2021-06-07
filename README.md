@@ -4,7 +4,7 @@ This simple adapter allows to use a 68000 DIP CPU standard into a X68000 machine
 
 # Images
 
-<img src="https://github.com/arananet/X68000CPUADAPTER-PISTORM/blob/main/images/1.png?raw=true" width="700">
+<img src="https://github.com/arananet/X68000CPUADAPTER-PISTORM/blob/main/images/1nuevo.png?raw=true" width="700">
 
 # PCB information
 
