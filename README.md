@@ -1,6 +1,10 @@
 # X68000CPUADAPTER-PISTORM
 
-This simple adapter allows to use a 68000 DIP CPU standard into a X68000 machine. Also is ready for a plausible version of the pistorm (not yet ready) on a X68000 machine. The measures has been taked on a Ace machine. It has been designed specially to use with the PISTORM board (Claude's Schwarz design).
+This simple adapter allows to use a 68000 DIP CPU standard into a X68000 machine. The measures has been taked on a Ace machine. It has been designed specially to use with the PISTORM board (Claude's Schwarz design).
+
+### Note: 
+
+This will electronically work with PISTORM but firmware needs some work and is not ready yet. Do not stalk Claude's or other developers, give people some time to test it.
 
 # Images
 
