@@ -4,7 +4,7 @@ This simple adapter allows to use a 68000 DIP CPU standard into a X68000 machine
 
 ### Note: 
 
-This will electronically work with PISTORM but firmware needs some work and is not ready yet. Do not stalk Claude's or other developers, give people some time to test it.
+This will electronically work with PISTORM but firmware needs some work and is not ready yet. Do not stalk Claude's or other developers, give these people some time to develop updates for this machine.
 
 # Images
 
